@@ -1,4 +1,4 @@
-module mullvad-ping
+module github.com/dreson4/mullvad-ping
 
 go 1.19
 
